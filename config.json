@@ -1,0 +1,7 @@
+{
+    "email": {
+        "user": "<your gmail>",
+        "pass": "<your pw>"
+    },
+    "interval": 300000
+}
